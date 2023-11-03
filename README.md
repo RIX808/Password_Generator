@@ -6,6 +6,7 @@ Simple password generator in Python.
 
 ## Required Modules
 [Colorama 0.4.6](https://pypi.org/project/colorama/)
+<br>
 [pyperclip 1.8.2](https://pypi.org/project/pyperclip/)
 
 ## Features
